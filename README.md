@@ -1,5 +1,8 @@
 # Mayur Sayari's FRT-Project-Weather
 
+## Output Video of the Project
+https://drive.google.com/file/d/1zoiCHRTOlfsd6ZnrkvoxPalbjU1oAG5F/view
+
 ## About the FRT
 
 Future Ready Talent is a virtual internship platform for students with an opportunity to learn the in-demand technology skills and work towards solving real world problem using the power of Microsoft Azure & GitHub tools. The students can earn internship credits on completion of the program with an entry to exclusive career fairs.
