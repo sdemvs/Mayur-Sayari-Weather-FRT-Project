@@ -22,7 +22,7 @@ Places.
 - Type the city name you want to know the weather of, and then click on the search button.
 - After that it will automatically display Weather(in °C), Humidity(in %), Wind Speed(in km/h) of the city.
 
-## Website Sample : Weather
+## Website Sample : Weather Project
 
 ## Used Technologies
 
