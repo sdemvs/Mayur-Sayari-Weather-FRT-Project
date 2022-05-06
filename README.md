@@ -19,16 +19,17 @@ Any user (programmer) can have a look on different features of
 layout of the webiste like home, services, about, At different 
 Places.
 
-## Azure service used in this Project
-### Nowadays there are so many ways to build and deploy React apps such as React with Java, React with Nodejs, serverless, etc. Building with Azure Static Web apps service is one of them, and it is recently released by Microsoft Azure and it’s in preview mode. With this service, you can develop modern apps fast with global reach and scale.
+## Azure service used in this Project : Azure Static Web Apps
+Nowadays there are so many ways to build and deploy React apps such as React with Java, React with Nodejs, serverless, etc. Building with Azure Static Web apps service is one of them, and it is recently released by Microsoft Azure and it’s in preview mode. With this service, you can develop modern apps fast with global reach and scale.
 
-- Benefits of Azure Static Web Apps
-  There are a lot of benefits to using Azure static web apps. If you are looking for a faster development and deployment process with just a git commit you would definitely check this out. Here are some of the benefits according to [their website](https://azure.microsoft.com/en-us/services/app-service/static/).
+## Azure Static Web Apps
+Benefits of Azure Static Web Apps
+There are a lot of benefits to using Azure static web apps. If you are looking for a faster development and deployment process with just a git commit you would definitely check this out. Here are some of the benefits according to [their website](https://azure.microsoft.com/en-us/services/app-service/static/).
 
-  - Productivity from local development to GitHub native workflows for CI/CD
-  - Managed global availability for static content
-  - Dynamic scale for serverless APIs
-  - Streamlined management including custom domain configuration and authentication and authorization
+Productivity from local development to GitHub native workflows for CI/CD
+Managed global availability for static content
+Dynamic scale for serverless APIs
+Streamlined management including custom domain configuration and authentication and authorization
 
 ## Steps
 
