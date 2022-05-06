@@ -39,9 +39,9 @@ Places.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanshree-gandas-12652b1ba)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-sayari/)
 
-[![Github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&color=black)](https://github.com/dhanshree20)
+[![Github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&color=black)](https://github.com/sdemvs)
 
 
 
